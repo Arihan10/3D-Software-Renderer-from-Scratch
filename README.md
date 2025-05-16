@@ -1,3 +1,11 @@
+# UPDATE
+
+Complete PHYSICS and 3D engine from scratch in C++!
+
+Demo: https://youtu.be/L5EbMn3l9ck
+
+Github repo:https://github.com/Arihan10/N3XTD
+
 # 3D Software Renderer
 
 Fully featured 3D software renderer with the ability to import .obj models! 
